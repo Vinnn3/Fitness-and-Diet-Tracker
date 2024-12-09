@@ -47,9 +47,9 @@ Fitness and Diet Tracker is a mobile application designed to help users achieve 
 ## **Contributing**
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
-2. Create a new branch (`feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
+2. Create a new branch.
+3. Commit your changes.
+4. Push to the branch.
 5. Open a pull request.
 
 ---
